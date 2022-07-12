@@ -17,5 +17,5 @@ B. Tom
 C. 8. satirdan dolayi kod calismaz
 D. 9. satirdan dolayi kod calismaz
 E. Kod exception olusturur
- Arrays.asList(names);
+ Java_11.Arrays.asList(names);
  */
