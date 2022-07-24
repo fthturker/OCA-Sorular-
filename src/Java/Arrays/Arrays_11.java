@@ -1,4 +1,4 @@
-package Java_11;
+package Java.Arrays;
 
 
 import java.util.Arrays;
